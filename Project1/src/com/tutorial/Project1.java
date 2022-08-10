@@ -6,9 +6,9 @@ public class Project1 {
             String nama, klp;
             String txt = "michael";
             int umur;
-            int a = (10*100)/30;
+      
             // judul Project
-      /*  System.out.println("Program Project percobaan 1");
+        System.out.println("Program Project percobaan 1");
         System.out.println("mengunakan if didalam fungsi case");
         System.out.println("program pengelompokan berdasarkan umur");
         Scanner scan = new Scanner(System.in);
@@ -32,9 +32,8 @@ public class Project1 {
             System.out.println("Pengetesan kedua");
             System.out.println("Pengecekan fungsi untuk Huruf besar dan kecil");
 
-            System.out.println(txt.toUpperCase());*/
+            System.out.println(txt.toUpperCase());
 
-            System.out.println(a);
 
             
 
