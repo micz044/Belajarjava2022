@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Project1 {
       public static void main(String[] args) {
             String nama, klp;
+            String txt = "michael";
             int umur;
             // judul Project
         System.out.println("Program Project percobaan 1");
@@ -26,6 +27,12 @@ public class Project1 {
             }
 
             System.out.println("Selamat "+ nama + klp);
+
+            System.out.println("Pengetesan kedua");
+            System.out.println("Pengecekan fungsi untuk Huruf besar dan kecil");
+
+            System.out.println(txt.toUpperCase());
+
             
 
       }
