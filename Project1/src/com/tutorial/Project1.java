@@ -26,8 +26,7 @@ public class Project1 {
             }
 
             System.out.println("Selamat "+ nama + klp);
-            System.out.println("Siapa nama anda ?");
-            System.out.println("nama saya adalah " + nama);
+            
 
       }
 }
